@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "0928a6e6-7538-4dd0-921b-1defe54d621d",
+            "Value": {
+                "id": "02a7f44a-ce3b-4c69-9744-6ef2d29d8a08",
+                "resourcePath": "objects\\ObjWall\\ObjWall.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0e2fa265-d23c-4db3-b319-c04177ab299b",
+            "Value": {
+                "id": "2e063749-fd7e-4136-8822-6feb35603b07",
+                "resourcePath": "sprites\\SprWall\\SprWall.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "11b4ba96-a15d-4f4b-a5dd-cfb17a6eb7fd",
             "Value": {
                 "id": "af208ef7-3f90-468b-b92a-b5eb1d97b678",
@@ -68,6 +84,14 @@
                 "id": "1d586467-a7f0-4584-9650-807aed7ddbf7",
                 "resourcePath": "views\\5607e10d-b5ad-4a3e-89c9-54f629586c72.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5c32bb2b-70ce-4b1b-bcde-77a14a164900",
+            "Value": {
+                "id": "46af680f-99d3-4cb4-9ced-3dd6469913b7",
+                "resourcePath": "objects\\ObjPlayer\\ObjPlayer.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -172,6 +196,14 @@
                 "id": "132e0734-adbf-4c2e-8379-211f5ff948ac",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b6db6fa3-c6c8-4db1-815b-78a179137ebb",
+            "Value": {
+                "id": "2aadf5c8-da05-465a-b190-371618ccbff0",
+                "resourcePath": "sprites\\SprPlayer\\SprPlayer.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
